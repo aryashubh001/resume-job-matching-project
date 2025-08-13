@@ -1,4 +1,3 @@
-# resume-job-matching-project
 ## Project: Resume-Job Description Matching Engine 🤖
 Introduction
 This project is a data analysis and machine learning pipeline that builds a model to predict the compatibility score between a resume and a job description. The goal is to demonstrate the end-to-end process of a data science project, from exploratory data analysis (EDA) and text preprocessing to model building and evaluation. The final model serves as a proof-of-concept for an automated recruitment screening tool.
